@@ -12,5 +12,3 @@
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Kauan-Nogueira/count.svg" />
  </p>
-
-</p>
